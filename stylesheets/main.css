@@ -1,0 +1,82 @@
+		*{
+			margin: 0;
+			padding: 0;
+			font-size: 24px;
+		}
+		
+		img {
+			margin-left: -18px;
+		}
+		
+		div {
+			display: inline-block;
+			overflow: hidden;
+			margin:  15px;
+		}
+		
+		div#chrome{
+			width: 155px;
+			height: 124px;
+		}
+		
+		div#firefox{
+			width: 150px;
+			height: 124px;
+		}
+		
+		div#opera{
+			width: 138px;
+			height: 124px;
+		}
+		
+		div#safari{
+			width: 141px;
+			height: 124px;
+		}
+		
+		div#yandex{
+			width: 146px;
+			height: 124px;
+		}
+		
+		
+		
+		div#ie{
+			float: right;
+			width: 155px;
+			height: 124px;
+		}
+		
+		div#chrome span:nth-child(2){
+			color: #22a12a;
+		}
+		div#chrome span:nth-child(3){
+			color: #c90000;
+		}
+		div#chrome span:nth-child(4){
+			color: #f9d411;
+		}
+
+		div#firefox{
+			color: #f2a414;
+		}
+
+		div#opera{
+			color: #c10e0e;
+		}
+		
+		div#safari{
+			color: #646464;
+		}
+		
+		div#yandex span:nth-child(2){
+			color: #ff0000;
+		}
+		div#yandex span:nth-child(3){
+			color: #000000;
+		}
+		
+		div#ie{
+			color: #036da3;
+		}
+		
