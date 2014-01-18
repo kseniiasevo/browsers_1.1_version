@@ -2,56 +2,48 @@
 			margin: 0;
 			padding: 0;
 			font-size: 24px;
+			margin-top: 0;
 		}
 		
 		img {
 			display: block;
 			margin-left: -18px;
+			margin-top: -20px;
 		}
 		
 		div {
 			display: inline-block;
 			overflow: hidden;
 			margin:  15px;
-			line-height: 124px;
-			background:  yellow;
 			text-align: center;
+			height: 124px;
+			line-height: 124px;
 		}
 		
-		div span {
-		}
 		
 		div#chrome{
-			width: 155px;
-			height: 124px;
+			width: 143px;
 		}
 		
 		div#firefox{
-			width: 150px;
-			height: 124px;
+			width: 124px;
 		}
 		
 		div#opera{
-			width: 138px;
-			height: 124px;
+			width: 112px;
 		}
 		
 		div#safari{
-			width: 141px;
-			height: 124px;
+			width: 112px;
 		}
 		
 		div#yandex{
-			width: 146px;
-			height: 124px;
+			width: 130x;
 		}
-		
-		
 		
 		div#ie{
 			float: right;
-			width: 155px;
-			height: 124px;
+			width: 130px;
 		}
 		
 		div#chrome span:nth-child(2){
@@ -67,12 +59,10 @@
 
 		div#firefox{
 			color: #f2a414;
-			margin-left: 30px;
 		}
 
 		div#opera{
 			color: #c10e0e;
-			margin-left: 30px;
 		}
 		
 		div#safari{
@@ -89,12 +79,13 @@
 		div#ie {
 			color: #036da3;
 			line-height: normal;
-			position: relative;
 		}
 		
-		/*div#ie span {
-			position: absolute;
-			top: 50%;
-			margin-top: -28px;
-		}*/
+		div#ie span {
+			display: inline-block;
+			margin-top: 32px;
+		}
+		
+	
+		
 		
