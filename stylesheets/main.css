@@ -66,20 +66,18 @@
 		
 		div#ie_table {
 			display: inline-block;
+			float: right;
 			height: 124px;
 		}
 		
 		div#ie {
 			width: 130px;
 			color: #036da3;
+      			line-height: normal;
 			display: table-cell;
 			vertical-align: middle;
 		}
 		
-	
-		div#ie span {
-			/*display: inline-block;*/
-		}
 	
 		
 		
