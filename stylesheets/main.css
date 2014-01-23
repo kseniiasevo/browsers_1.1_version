@@ -27,23 +27,21 @@
 		
 		div#firefox{
 			width: 124px;
+			color: #f2a414;
 		}
 		
 		div#opera{
 			width: 112px;
+			color: #c10e0e;
 		}
 		
 		div#safari{
 			width: 112px;
+			color: #646464; 
 		}
 		
 		div#yandex{
 			width: 130x;
-		}
-		
-		div#ie{
-			float: right;
-			width: 130px;
 		}
 		
 		div#chrome span:nth-child(2){
@@ -57,18 +55,6 @@
 		div#chrome span:nth-child(4){
 			color: #f9d411;
 		}
-
-		div#firefox{
-			color: #f2a414;
-		}
-
-		div#opera{
-			color: #c10e0e;
-		}
-		
-		div#safari{
-			color: #646464; 
-		}
 		
 		div#yandex span:nth-child(2){
 			color: #ff0000;
@@ -79,15 +65,18 @@
 		}
 		
 		div#ie {
+			float: right;
+			width: 130px;
 			color: #036da3;
-			line-height: normal;
-		}
-		
-		div#ie span {
 			display: table-cell;
 			vertical-align: middle;
 		}
 		
+	
+		div#ie span {
+			/*display: inline-block;
+			margin-top: 30%;*/
+		}
 	
 		
 		
