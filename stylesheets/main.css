@@ -64,6 +64,11 @@
 			color: #000000;
 		}
 		
+		div#ie_table {
+			display: table;
+			width: 100%;
+		}
+		
 		div#ie {
 			float: right;
 			width: 130px;
