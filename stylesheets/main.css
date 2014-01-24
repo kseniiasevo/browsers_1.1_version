@@ -67,11 +67,13 @@
 		div#ie_table {
 			display: inline-block;
 			float: right;
+			width: 130px;
 			height: 124px;
 		}
 		
 		div#ie {
 			width: 130px;
+			height: 124px;
 			color: #036da3;
       			line-height: normal;
 			display: table-cell;
