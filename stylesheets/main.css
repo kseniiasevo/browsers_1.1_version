@@ -70,9 +70,11 @@
 		}
 		
 		div#ie {
+<<<<<<< HEAD
 			width: 130px;
 			color: #036da3;
       		line-height: normal;
+			color: #036da3;
 			display: table-cell;
 			vertical-align: middle;
 		}
